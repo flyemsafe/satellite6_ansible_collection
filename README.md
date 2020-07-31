@@ -1,0 +1,1 @@
+# satellite6_ansible_collection
